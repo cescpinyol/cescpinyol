@@ -13,11 +13,11 @@
     </td>
     <td valign="top">
       <h3>My stack: </h3>
-      <h6>📔&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=python">HTML</a></h6>
-      <h6>📗&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=c%23">CSS</a></h6>
-      <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=go">JS</a></h6>
+      <h6>📔&emsp;<a href="https://en.wikipedia.org/wiki/HTML">HTML</a></h6>
+      <h6>📗&emsp;<a href="https://en.wikipedia.org/wiki/CSS">CSS</a></h6>
+      <h6>📘&emsp;<a href="https://en.wikipedia.org/wiki/JavaScript">JS</a></h6>
       </td>
-     <td valign="top">
+    
       
   </tr>
 </table>
@@ -33,4 +33,4 @@ JavaScript           30 mins             ░░░░░░░░░░     0.91
 
 
 <hr>
-<h4 align="center">Other – <a href='http://feschenko.org' target="_blank">feschenko.org</a><h4>
+<h4 align="center">Other – <a href='https://www.cescpinyol.com' target="_blank">cescpinyol.com</a><h4>
