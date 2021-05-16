@@ -6,7 +6,7 @@
 <table>
   <tr>
     <td valign="top">
-      <h3>Most starred repos: </h3>
+      <h3>Repositories: </h3>
             <h6>⭐️&nbsp;&nbsp;&nbsp;15&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;133 – <a href='https://github.com/feschenko/spotify-to-vk'>spotify-to-vk</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;13&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;63 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
       <h6>⭐️&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1 – <a href='https://github.com/feschenko/EasyEpub'>EasyEpub</a></h6> 
@@ -18,11 +18,7 @@
       <h6>📘&emsp;<a href="https://github.com/feschenko?tab=repositories&q=&type=&language=go">Golang</a> ( Intern )</h6>
       </td>
      <td valign="top">
-      <h3>New repositories: </h3>
-           <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;1 – <a href='https://github.com/feschenko/DALL-E'>DALL-E</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;0 – <a href='https://github.com/feschenko/StableViewSynthesis'>StableViewSynthesis</a></h6> 
-      <h6>⭐️&nbsp;&nbsp;&nbsp;13&nbsp;&nbsp;|&nbsp;&nbsp;👁&nbsp;&nbsp;&nbsp;63 – <a href='https://github.com/feschenko/voicy'>voicy</a></h6> 
-        </td>
+      
   </tr>
 </table>
 <h2>📊 Weekly development breakdown: </h2>
